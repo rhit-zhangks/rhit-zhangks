@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Kallista
-- 💡 I'm interested in Human-Computer Interaction, Web Development, and Image Recognition!
+- 💡 I'm interested in Human-Computer Interaction, Full-Stack Development, and Image Recognition!
 - 🌱 I'm currently learning React and Tailwind CSS by creating a personal portfolio site
 - 💞 I'm looking to collaborate on web/mobile applications!
 - 📫 You can reach me at zhangks@rose-hulman.edu or message me on LinkedIn
